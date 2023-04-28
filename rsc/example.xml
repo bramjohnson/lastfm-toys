@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lfm status="ok">
+    <toptracks user="example" page="1" perPage="50" totalPages="23" total="1137">
+        <track>Hi</track>
+    </toptracks>
+</lfm>
