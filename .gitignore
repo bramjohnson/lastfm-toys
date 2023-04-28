@@ -19,3 +19,6 @@ go.work
 
 # Cache files
 rsc/cache/**
+
+# Config file (don't want to commit api key accidentally)
+config.yml
